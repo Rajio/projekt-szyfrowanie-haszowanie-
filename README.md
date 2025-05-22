@@ -1,4 +1,18 @@
-# projekt-szyfrowanie-haszowanie-
+# Projekt: Szyfrowanie i haszowanie danych
+
+## Opis
+Projekt zawiera implementacje algorytmów szyfrowania AES i RSA oraz funkcji haszujących SHA-256 i MD5 w Pythonie.
+
+## Struktura
+- `src/` – kod źródłowy algorytmów
+- `tests/` – testy jednostkowe i wydajnościowe
+
+## Jak uruchomić testy
+1. Zainstaluj wymagania:
+pip install -r requirements.txt
+2. Uruchom testy:
+python run_tests.py
+
 
 Dodatkowe zastrzeżenia:
 
